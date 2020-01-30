@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css?family=Arvo&display=swap");
+.card-Sign{
+    margin-top: 100px;
+    border: 1px solid silver;
+    padding: 20px;
+    max-width: 400px;
+    border-radius: 20px;
+    background-color: rgba(46, 139, 87, 0.8);
+    box-shadow: 10px 10px rgba(46, 139, 87, 0.4);
+}
+#body{
+    font-family: Arvo, sans-serif;    
+    width: 100%;
+    color: white;
+}
+i{
+    color: black;
+}
+#btnRow{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.alert{
+    text-align: center;
+    border: 1px solid red;
+    background-color: red;
+    margin: 0;
+    border-radius: 10px;
+}
+.success{
+    text-align: center;
+    border: 1px solid green;
+    background-color: green;
+    margin: 0;
+    border-radius: 10px;
+}
